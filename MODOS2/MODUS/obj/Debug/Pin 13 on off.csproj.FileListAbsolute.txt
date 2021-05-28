@@ -1,0 +1,19 @@
+E:\Ardiuno learning\Pin 13 on off\bin\Debug\Pin 13 on off.exe.config
+E:\Ardiuno learning\Pin 13 on off\bin\Debug\Pin 13 on off.exe
+E:\Ardiuno learning\Pin 13 on off\bin\Debug\Pin 13 on off.pdb
+E:\Ardiuno learning\Pin 13 on off\obj\Debug\Pin 13 on off.csprojAssemblyReference.cache
+E:\Ardiuno learning\Pin 13 on off\obj\Debug\Pin_13_on_off.Form1.resources
+E:\Ardiuno learning\Pin 13 on off\obj\Debug\Pin_13_on_off.Properties.Resources.resources
+E:\Ardiuno learning\Pin 13 on off\obj\Debug\Pin 13 on off.csproj.GenerateResource.cache
+E:\Ardiuno learning\Pin 13 on off\obj\Debug\Pin 13 on off.csproj.CoreCompileInputs.cache
+E:\Ardiuno learning\Pin 13 on off\obj\Debug\Pin 13 on off.exe
+E:\Ardiuno learning\Pin 13 on off\obj\Debug\Pin 13 on off.pdb
+J:\Dog Project\Pin 13 on off\Pin 13 on off\bin\Debug\Pin 13 on off.exe.config
+J:\Dog Project\Pin 13 on off\Pin 13 on off\bin\Debug\Pin 13 on off.exe
+J:\Dog Project\Pin 13 on off\Pin 13 on off\bin\Debug\Pin 13 on off.pdb
+J:\Dog Project\Pin 13 on off\Pin 13 on off\obj\Debug\Pin 13 on off.csprojAssemblyReference.cache
+J:\Dog Project\Pin 13 on off\Pin 13 on off\obj\Debug\Pin_13_on_off.Form1.resources
+J:\Dog Project\Pin 13 on off\Pin 13 on off\obj\Debug\Pin_13_on_off.Properties.Resources.resources
+J:\Dog Project\Pin 13 on off\Pin 13 on off\obj\Debug\Pin 13 on off.csproj.GenerateResource.cache
+J:\Dog Project\Pin 13 on off\Pin 13 on off\obj\Debug\Pin 13 on off.exe
+J:\Dog Project\Pin 13 on off\Pin 13 on off\obj\Debug\Pin 13 on off.pdb
